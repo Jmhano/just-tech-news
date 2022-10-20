@@ -13,5 +13,13 @@
     "express": "^4.18.2",
     "mysql2": "^2.3.3",
     "sequelize": "^5.22.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jmhano/just-tech-news.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jmhano/just-tech-news/issues"
+  },
+  "homepage": "https://github.com/Jmhano/just-tech-news#readme"
 }
