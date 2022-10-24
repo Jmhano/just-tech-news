@@ -14,8 +14,19 @@ const sequelize = new Sequelize(
   }
 );
 
-
+// const sequelize = new Sequelize(
+//   "just_tech_news",
+//   "root",
+//   "",
+//   {
+//     host: "localhost",
+//     dialect: "mysql",
+//     socketPath: "/Applications/MAMP/tmp/mysql/mysql.sock",
+//   },
+//   function (err, data) {
+//     if (err) console.log(err);
+//     console.log(data);
+//   }
+// );
 
 module.exports = sequelize;
-
-
